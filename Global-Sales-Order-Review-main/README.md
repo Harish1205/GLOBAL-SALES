@@ -41,4 +41,4 @@ The dataset has been analyzed, and a Power BI dashboard was created to transform
 
 It is often used for sales analysis, customer relationship management (CRM), and performance tracking in business operations.
 
-Any queries or feedback. Kindly mail to @varshini.18shankar19@gmail.com
+
